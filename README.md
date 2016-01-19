@@ -1,3 +1,5 @@
+The corresponding FuckAdBlock in use Turbolinks.
+
 FuckAdBlock (v3.2.0)
 ===========
 
