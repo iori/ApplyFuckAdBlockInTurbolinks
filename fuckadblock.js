@@ -44,7 +44,7 @@
 			}, 1);
 		};
 		if(window.addEventListener !== undefined) {
-			window.addEventListener('load', eventCallback, false);
+      window.addEventListener('page:change', eventCallback);
 		} else {
 			window.attachEvent('onload', eventCallback);
 		}
